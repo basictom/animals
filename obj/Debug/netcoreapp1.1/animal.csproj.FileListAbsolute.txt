@@ -1,0 +1,8 @@
+/Users/Basic/Workspace/animal/bin/Debug/netcoreapp1.1/animal.deps.json
+/Users/Basic/Workspace/animal/bin/Debug/netcoreapp1.1/animal.runtimeconfig.json
+/Users/Basic/Workspace/animal/bin/Debug/netcoreapp1.1/animal.runtimeconfig.dev.json
+/Users/Basic/Workspace/animal/bin/Debug/netcoreapp1.1/animal.dll
+/Users/Basic/Workspace/animal/bin/Debug/netcoreapp1.1/animal.pdb
+/Users/Basic/Workspace/animal/obj/Debug/netcoreapp1.1/animal.AssemblyInfo.cs
+/Users/Basic/Workspace/animal/obj/Debug/netcoreapp1.1/animal.dll
+/Users/Basic/Workspace/animal/obj/Debug/netcoreapp1.1/animal.pdb
