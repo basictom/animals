@@ -1,11 +1,14 @@
 ﻿using System;
 
+
 namespace animal
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("🐿");
+            
             var neverneverland = new Forest("Never Never Land", "Far Far Away");
             var secondForrest = new Forest("Another Forest", "The other direction");
 
@@ -36,11 +39,13 @@ namespace animal
                 Fur = "Majestic F*ing Hair"
             };
 
-            var squirrel = new Animal{
-                Name = "Squirrel",
-                NumberOfLegs = 4,
-                Fur = "Hair"
+            var squirrel = new Squirrel("Mr. Fuzzy Nuts", "Gray and Patchy"){
+                TailLength = 17;
             };
+            var bear = new Bear("Yogi", "Blue")
+            {
+                TailLength = 0;
+            }
             var spider = new Animal{
                 Name = "Spider",
                 NumberOfLegs = 8,
